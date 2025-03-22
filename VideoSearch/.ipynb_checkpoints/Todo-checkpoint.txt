@@ -1,0 +1,5 @@
+This doesn't work yet, because obviously it doesn't have the tools
+In order to get this to work, I need:
+- Better (maybe more generating methods?) templates
+- Scaled + rotated versions of templates to match against
+- See what kind of comp time will be feasible.
